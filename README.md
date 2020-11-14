@@ -7,7 +7,7 @@ This is a simple boilerplate to start your project in ElectronJS with React.
 #### Clone this repo
 
 ```
-git clone 
+git clone https://github.com/SMKH-PRO/MFS.git name-of-your-project
 ```
 
 #### Install dependencies
